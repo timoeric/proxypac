@@ -1,0 +1,6 @@
+name = "proxypac"
+main = "src/index.ts"
+compatibility_date = "2022-11-18"
+
+account_id = "<your account ID>"
+workers_dev = true
